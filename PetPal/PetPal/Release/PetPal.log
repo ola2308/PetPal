@@ -1,0 +1,168 @@
+﻿  BathroomStrategy.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  BedroomStrategy.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+  Game.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(10,51): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(10,51): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(10,51): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(10,51): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(10,51): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(10,31): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(10,31): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(10,31): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(10,31): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(10,31): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(180,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(211,47): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(211,47): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(211,47): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(211,47): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(211,47): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(215,48): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(215,48): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(215,48): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(215,48): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(215,48): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(412,23): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(412,23): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(412,23): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(412,23): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(412,23): warning C4244:         ]
+  HealthBar.cpp
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBar.cpp(21,70): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBar.cpp(21,46): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+  HealthBarManager.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(88,16): error C3083: "views" : symbol po lewej stronie "::" musi być typem
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(88,23): error C2039: „filter”: nie jest składową elementu „std”
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\condition_variable(29,1):
+  zobacz deklarację „std”
+  
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(88,23): error C3861: "filter": identyfikatora nie odnaleziono
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25): error C2678: dwuargumentowy "|": nie znaleziono żadnego operatora, który przyjmuje lewostronny operand typu "const std::vector<HealthBar,std::allocator<HealthBar>>" (lub nie istnieje akceptowalna konwersja)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\combaseapi.h(1281,1):
+  może to być „COWAIT_FLAGS operator |(COWAIT_FLAGS,COWAIT_FLAGS) noexcept”
+  	C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  	„COWAIT_FLAGS operator |(COWAIT_FLAGS,COWAIT_FLAGS) noexcept”: nie można dokonać konwersji argumentu 1 z „const std::vector<HealthBar,std::allocator<HealthBar>>” do „COWAIT_FLAGS”
+  		C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  		Nie jest dostępny żaden operator konwersji zdefiniowany przez użytkownika, który mógłby wykonać tę konwersję lub operator nie może zostać wywołany
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\combaseapi.h(324,1):
+  lub       "REGCLS operator |(REGCLS,REGCLS) noexcept"
+  	C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  	„REGCLS operator |(REGCLS,REGCLS) noexcept”: nie można dokonać konwersji argumentu 1 z „const std::vector<HealthBar,std::allocator<HealthBar>>” do „REGCLS”
+  		C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  		Nie jest dostępny żaden operator konwersji zdefiniowany przez użytkownika, który mógłby wykonać tę konwersję lub operator nie może zostać wywołany
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(5340,1):
+  lub       "DIALOG_DPI_CHANGE_BEHAVIORS operator |(DIALOG_DPI_CHANGE_BEHAVIORS,DIALOG_DPI_CHANGE_BEHAVIORS) noexcept"
+  	C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  	„DIALOG_DPI_CHANGE_BEHAVIORS operator |(DIALOG_DPI_CHANGE_BEHAVIORS,DIALOG_DPI_CHANGE_BEHAVIORS) noexcept”: nie można dokonać konwersji argumentu 1 z „const std::vector<HealthBar,std::allocator<HealthBar>>” do „DIALOG_DPI_CHANGE_BEHAVIORS”
+  		C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  		Nie jest dostępny żaden operator konwersji zdefiniowany przez użytkownika, który mógłby wykonać tę konwersję lub operator nie może zostać wywołany
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(5317,1):
+  lub       "DIALOG_CONTROL_DPI_CHANGE_BEHAVIORS operator |(DIALOG_CONTROL_DPI_CHANGE_BEHAVIORS,DIALOG_CONTROL_DPI_CHANGE_BEHAVIORS) noexcept"
+  	C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  	„DIALOG_CONTROL_DPI_CHANGE_BEHAVIORS operator |(DIALOG_CONTROL_DPI_CHANGE_BEHAVIORS,DIALOG_CONTROL_DPI_CHANGE_BEHAVIORS) noexcept”: nie można dokonać konwersji argumentu 1 z „const std::vector<HealthBar,std::allocator<HealthBar>>” do „DIALOG_CONTROL_DPI_CHANGE_BEHAVIORS”
+  		C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  		Nie jest dostępny żaden operator konwersji zdefiniowany przez użytkownika, który mógłby wykonać tę konwersję lub operator nie może zostać wywołany
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\processthreadsapi.h(1179,1):
+  lub       "MACHINE_ATTRIBUTES operator |(MACHINE_ATTRIBUTES,MACHINE_ATTRIBUTES) noexcept"
+  	C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  	„MACHINE_ATTRIBUTES operator |(MACHINE_ATTRIBUTES,MACHINE_ATTRIBUTES) noexcept”: nie można dokonać konwersji argumentu 1 z „const std::vector<HealthBar,std::allocator<HealthBar>>” do „MACHINE_ATTRIBUTES”
+  		C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  		Nie jest dostępny żaden operator konwersji zdefiniowany przez użytkownika, który mógłby wykonać tę konwersję lub operator nie może zostać wywołany
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(13088,1):
+  lub       "JOB_OBJECT_IO_RATE_CONTROL_FLAGS operator |(JOB_OBJECT_IO_RATE_CONTROL_FLAGS,JOB_OBJECT_IO_RATE_CONTROL_FLAGS) noexcept"
+  	C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  	„JOB_OBJECT_IO_RATE_CONTROL_FLAGS operator |(JOB_OBJECT_IO_RATE_CONTROL_FLAGS,JOB_OBJECT_IO_RATE_CONTROL_FLAGS) noexcept”: nie można dokonać konwersji argumentu 1 z „const std::vector<HealthBar,std::allocator<HealthBar>>” do „JOB_OBJECT_IO_RATE_CONTROL_FLAGS”
+  		C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  		Nie jest dostępny żaden operator konwersji zdefiniowany przez użytkownika, który mógłby wykonać tę konwersję lub operator nie może zostać wywołany
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(13052,1):
+  lub       "JOB_OBJECT_NET_RATE_CONTROL_FLAGS operator |(JOB_OBJECT_NET_RATE_CONTROL_FLAGS,JOB_OBJECT_NET_RATE_CONTROL_FLAGS) noexcept"
+  	C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  	„JOB_OBJECT_NET_RATE_CONTROL_FLAGS operator |(JOB_OBJECT_NET_RATE_CONTROL_FLAGS,JOB_OBJECT_NET_RATE_CONTROL_FLAGS) noexcept”: nie można dokonać konwersji argumentu 1 z „const std::vector<HealthBar,std::allocator<HealthBar>>” do „JOB_OBJECT_NET_RATE_CONTROL_FLAGS”
+  		C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  		Nie jest dostępny żaden operator konwersji zdefiniowany przez użytkownika, który mógłby wykonać tę konwersję lub operator nie może zostać wywołany
+  C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(87,25):
+  podczas próby dopasowania listy argumentów "(const std::vector<HealthBar,std::allocator<HealthBar>>, unknown-type)"
+  
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBarManager.cpp(91,35): error C3536: "criticalBars" : nie można użyć, zanim zostanie zainicjowany
+  Interface.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(21,93): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(25,91): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(74,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,84): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,84): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,84): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,84): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,84): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,84): warning C4244:         and
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,84): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,84): warning C4244:             T=float
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,84): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,64): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,64): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,64): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,64): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,64): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,64): warning C4244:         and
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,64): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,64): warning C4244:             T=float
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(105,64): warning C4244:         ]
+  KitchenStrategy.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(3,21): error C2039: „filesystem”: nie jest składową elementu „std”
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\iostream(18,1):
+  zobacz deklarację „std”
+  
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(3,21): error C2878: "filesystem": przestrzeń nazw lub klasa o tej nazwie nie istnieje
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(27,9): error C2653: "fs": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(27,13): error C3861: "exists": identyfikatora nie odnaleziono
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(27,38): error C2653: "fs": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(27,42): error C3861: "is_directory": identyfikatora nie odnaleziono
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(28,34): error C2653: "fs": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(28,9): error C2530: "entry": odwołania muszą być zainicjowane
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(28,9): error C3531: „entry”: symbol, którego typ zawiera „auto”, musi mieć inicjator
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(28,32): error C2143: błąd składniowy: brakuje „;” przed „:”
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(28,38): error C3861: "directory_iterator": identyfikatora nie odnaleziono
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(28,71): error C2143: błąd składniowy: brakuje „;” przed „)”
+  PetPal.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  PlayRoomStrategy.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,101): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,101): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,101): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,101): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,101): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,101): warning C4244:         and
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,101): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,101): warning C4244:             T=float
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,101): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,55): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,55): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,55): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,55): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,55): warning C4244:         and
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,55): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,55): warning C4244:             T=float
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(9,55): warning C4244:         ]
+  Puppy.cpp
+  PuppyBuilder.cpp
+  PuppyNamingMenu.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  RoomInteraction.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\RoomInteraction.cpp(41,19): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\RoomInteraction.cpp(42,19): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych

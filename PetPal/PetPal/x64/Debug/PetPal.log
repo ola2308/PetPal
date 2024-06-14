@@ -1,0 +1,83 @@
+﻿  BathroomStrategy.cpp
+  BedroomStrategy.cpp
+  Game.cpp
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(12,51): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(12,51): warning C4244:         with
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(12,51): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(12,51): warning C4244:             T=unsigned int
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(12,51): warning C4244:         ]
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(12,31): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(12,31): warning C4244:         with
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(12,31): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(12,31): warning C4244:             T=unsigned int
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(12,31): warning C4244:         ]
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(214,47): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(214,47): warning C4244:         with
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(214,47): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(214,47): warning C4244:             T=unsigned int
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(214,47): warning C4244:         ]
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(218,48): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(218,48): warning C4244:         with
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(218,48): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(218,48): warning C4244:             T=unsigned int
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(218,48): warning C4244:         ]
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(260,85): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(415,23): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(415,23): warning C4244:         with
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(415,23): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(415,23): warning C4244:             T=unsigned int
+C:\Users\olani\source\repos\PetPal\PetPal\Game.cpp(415,23): warning C4244:         ]
+  HealthBar.cpp
+C:\Users\olani\source\repos\PetPal\PetPal\HealthBar.cpp(21,70): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\HealthBar.cpp(21,46): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+  HealthBarManager.cpp
+  Interface.cpp
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(21,93): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(25,91): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,84): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,84): warning C4244:         with
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,84): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,84): warning C4244:             T=unsigned int
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,84): warning C4244:         ]
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,84): warning C4244:         and
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,84): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,84): warning C4244:             T=float
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,84): warning C4244:         ]
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,64): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,64): warning C4244:         with
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,64): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,64): warning C4244:             T=unsigned int
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,64): warning C4244:         ]
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,64): warning C4244:         and
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,64): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,64): warning C4244:             T=float
+C:\Users\olani\source\repos\PetPal\PetPal\Interface.cpp(105,64): warning C4244:         ]
+  KitchenStrategy.cpp
+  PetPal.cpp
+  PlayRoomStrategy.cpp
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         with
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:             T=unsigned int
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         ]
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         and
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:             T=float
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         ]
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         with
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:             T=unsigned int
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         ]
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         and
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         [
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:             T=float
+C:\Users\olani\source\repos\PetPal\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         ]
+  Puppy.cpp
+  PuppyBuilder.cpp
+  PuppyNamingMenu.cpp
+  RoomInteraction.cpp
+C:\Users\olani\source\repos\PetPal\PetPal\RoomInteraction.cpp(41,19): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\olani\source\repos\PetPal\PetPal\RoomInteraction.cpp(42,19): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+  PetPal.vcxproj -> C:\Users\olani\source\repos\PetPal\PetPal\x64\Debug\PetPal.exe

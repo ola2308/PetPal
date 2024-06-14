@@ -1,0 +1,106 @@
+﻿  BathroomStrategy.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  BedroomStrategy.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  Game.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(126,47): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(126,47): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(126,47): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(126,47): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(126,47): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(130,48): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(130,48): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(130,48): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(130,48): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(130,48): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(175,85): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(275,23): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(275,23): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(275,23): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(275,23): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Game.cpp(275,23): warning C4244:         ]
+  HealthBar.cpp
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBar.cpp(22,70): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\HealthBar.cpp(22,46): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+  HealthBarManager.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  Interface.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(22,93): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(26,91): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,84): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,84): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,84): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,84): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,84): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,84): warning C4244:         and
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,84): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,84): warning C4244:             T=float
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,84): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,64): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,64): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,64): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,64): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,64): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,64): warning C4244:         and
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,64): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,64): warning C4244:             T=float
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\Interface.cpp(120,64): warning C4244:         ]
+  KitchenStrategy.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(5,21): error C2039: „filesystem”: nie jest składową elementu „std”
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\iostream(18,1):
+  zobacz deklarację „std”
+  
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(5,21): error C2878: "filesystem": przestrzeń nazw lub klasa o tej nazwie nie istnieje
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(29,9): error C2653: "fs": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(29,13): error C3861: "exists": identyfikatora nie odnaleziono
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(29,38): error C2653: "fs": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(29,42): error C3861: "is_directory": identyfikatora nie odnaleziono
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(30,34): error C2653: "fs": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(30,9): error C2530: "entry": odwołania muszą być zainicjowane
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(30,9): error C3531: „entry”: symbol, którego typ zawiera „auto”, musi mieć inicjator
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(30,32): error C2143: błąd składniowy: brakuje „;” przed „:”
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(30,38): error C3861: "directory_iterator": identyfikatora nie odnaleziono
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\KitchenStrategy.cpp(30,71): error C2143: błąd składniowy: brakuje „;” przed „)”
+  PetPal.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PetPal.cpp(17,51): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PetPal.cpp(17,51): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PetPal.cpp(17,51): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PetPal.cpp(17,51): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PetPal.cpp(17,51): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PetPal.cpp(17,31): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PetPal.cpp(17,31): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PetPal.cpp(17,31): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PetPal.cpp(17,31): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PetPal.cpp(17,31): warning C4244:         ]
+  PlayRoomStrategy.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         and
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:             T=float
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,101): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         with
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:             T=unsigned int
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         ]
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         and
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         [
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:             T=float
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\PlayRoomStrategy.cpp(11,55): warning C4244:         ]
+  Puppy.cpp
+  PuppyBuilder.cpp
+  PuppyNamingMenu.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  RoomInteraction.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\RoomInteraction.cpp(43,19): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\olani\Desktop\wszystko\Uczelnia\pk4\git\Projekt\PetPal\RoomInteraction.cpp(44,19): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
